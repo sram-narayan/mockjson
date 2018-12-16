@@ -1,31 +1,54 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"supervisory_principal": [
+		{
+			"personal": {
+				"salutation": "",
+				"firstName": "XTREGDH",
+				"middleName": "E",
+				"lastName": "ASJDHRY",
+				"suffixName": "",
+				"eMail": "sgdgejje@jjjj.COM",
+				"status": "Active"
+			},
+			"registered_reps": [
+				{
+					"corpid": "m333333"
+				},
+				{
+					"corpid": "m444444"
+				},
+				{
+					"corpid": "m242444"
+				}
+			],
+			"perId": "1",
+			"corpId": "m12345",
+			"crd": "12487633"
+		},
+		{
+			"personal": {
+				"salutation": "",
+				"firstName": "HSHDIWHJW",
+				"middleName": "A",
+				"lastName": "KLKKAS",
+				"suffixName": "",
+				"eMail": "pppp@jjjj.COM",
+				"status": "Active"
+			},
+			"registered_reps": [
+				{
+					"corpid": "m345326"
+				},
+				{
+					"corpid": "m345367"
+				},
+				{
+					"corpid": "m998833"
+				}
+			],
+			"perId": "2",
+			"corpId": "m890768",
+			"crd": "0987665555"
+		}
+	]
 }
