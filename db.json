@@ -11,9 +11,15 @@
 				"status": "Active"
 			},
 			"registered_reps": [
-				"corpid": "m333333",
-				"corpid": "m444444",
-				"corpid": "m444444",
+				{
+					"corpid": "m333333"
+				},
+				{
+					"corpid": "m444444"
+				},
+				{
+					"corpid": "m444444"
+				},
 			]
 			"perId": "1",
 			"corpId": "m12345",
@@ -30,8 +36,15 @@
 				"status": "Active"
 			},
 			"registered_reps": [
-				"corpid": "m129092",
-				"corpid": "m990222",
+				{
+					"corpid": "m345326"
+				},
+				{
+					"corpid": "m345367"
+				},
+				{
+					"corpid": "m998833"
+				},
 			]
 			"perId": "2",
 			"corpId": "m890768",
